@@ -23,3 +23,4 @@ README.{pdf,html,doc,docx,odt}
 *\~
 bib.keys
 *.swp
+.Rproj.user
