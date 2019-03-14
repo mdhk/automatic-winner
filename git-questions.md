@@ -7,6 +7,7 @@ title: Questions about Git with some answers
 - How does a branch name differ from a tag? What are the differences when using them to reference a commit? Are there semantic differences in their use?
 
 - What does it mean to rewrite history?
+I don't know
 
 - Is deleting stuff considered fine or is it a bit dodgy?
 
